@@ -2,20 +2,21 @@
 Adventure Game for Intro to Programming
 
 ## Game Overview
-You are invited to a camping trip by some new friends, then disatser struck.
+You are invited to a camping trip by some new friends where you have fun do activities, 
+but everything goes south all of a sudden.
 
 ### World
 The story is set up in the Davelburg Woods, 
-where they will be able to explore some parts of the woods with the other characters, 
+where you will be able to explore some parts of the woods with the other characters, 
 and find items such as a lighter and food for survival.
 
 ### Characters
 There are 5 main characters
-Jess, the classmate that invited you, you have English with her, super nice
-Ryan, the Swim Captain who likes to brag and very athletic
-Cindy, you have math together
-Charles, Jess’s Boyfriend, you have science with him
-Penelope, a very quiet person, somehow friends with all
+1) Jess: the classmate that invited you, you have English with her, super nice.
+2) Ryan: the swim captain who likes to brag and is very athletic.
+3) Cindy: a foodie whom you have math with.
+4) Charles: Jess’s Boyfriend and your science partner
+5) Penelope: a very quiet person, somehow friends with all
 And then there's a scene with mom, who encourages you to go to the trip
 
 ### Player Goals
